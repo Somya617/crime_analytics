@@ -1,0 +1,8 @@
+Your problem would be
+
+Prediction of crime, prognosis and patrol route map forecasting:
+
+
+Predict crime hotspots by analysing historical crime data, socio-economic factors, and
+environmental variables. Also generate dynamic patrol routes by considering predicted crime
+hotspots, traffic conditons, and priority areas.
